@@ -1,0 +1,28 @@
+Name: Abu Ghannam Mustafa
+I.D: 318680253
+
+===Description ===
+
+Programe files:
+
+threadpool.c
+
+server.c
+
+description:
+
+this programe is a going to memic some functions of a real HTTP server that can handel a given number of http request , 
+
+the programe also uses a threadpool inorder to be albe to deal with more than one request in a time ,
+
+the server can send and resive requests from a real braoswer and it sopports many types of files ,
+
+in any case of errors in creating the server and before connecting with any client the server will exit with code -1
+
+in any case of error after creating the server and after connecting to a client the server will send the error as a html page
+
+explaning what the error was ;
+
+
+
+
